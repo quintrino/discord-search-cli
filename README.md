@@ -136,3 +136,5 @@ Prebuilt binaries for Apple silicon, Intel macOS and x86_64 Linux are attached t
 ```sh
 cargo test
 ```
+
+Can be used with Alfred and other systems
